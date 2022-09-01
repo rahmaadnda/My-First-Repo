@@ -4,4 +4,4 @@ NPM     : 2106750774
 
 Kelas   : C
 
-Hobi    : Tidur
+Hobi    : Ngemil
